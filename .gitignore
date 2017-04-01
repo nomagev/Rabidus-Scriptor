@@ -5,6 +5,8 @@ __pycache__/
 
 # My Special Sauce
 *DO-NOT-COMMIT*.*
+*client*secrets*.json
+*blogger*.dat
 
 # C extensions
 *.so
